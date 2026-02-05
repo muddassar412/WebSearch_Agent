@@ -34,7 +34,7 @@ flowchart TD
 ## Chapters
 
 1. [ResearchResponse Data Schema
-](01_researchresponse_data_schema_.md)
+](#researchresponse_data_schema_.md)
 2. [AgentExecutor
 ](02_agentexecutor_.md)
 3. [LLM Core (ChatAnthropic)
