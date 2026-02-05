@@ -34,17 +34,17 @@ flowchart TD
 ## Chapters
 
 1. [ResearchResponse Data Schema
-](#researchresponse_data_schema_.md)
+](#researchresponse_data_schema)
 2. [AgentExecutor
-](02_agentexecutor_.md)
+](02_agentexecutor)
 3. [LLM Core (ChatAnthropic)
-](03_llm_core__chatanthropic__.md)
+](03_llm_core__chatanthropic)
 4. [Research Tools (Web, Wiki, Save)
-](04_research_tools__web__wiki__save__.md)
+](04_research_tools__web__wiki__save)
 5. [ChatPromptTemplate
-](05_chatprompttemplate_.md)
+](05_chatprompttemplate)
 6. [PydanticOutputParser
-](06_pydanticoutputparser_.md)
+](06_pydanticoutputparser)
 
 # Chapter 1: ResearchResponse Data Schema
 
